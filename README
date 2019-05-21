@@ -5,11 +5,20 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+.gitignore
+  Files for git to ignore
+
 adt.txt
   Advanced Data Type
+
+hash/
+  Hash
 
 links.txt
   Advanced Data Type related links
 
 manifest
   Manifest for resync application
+
+trees/
+  Trees
