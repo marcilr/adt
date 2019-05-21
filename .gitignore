@@ -1,0 +1,9 @@
+#.gitignore
+# Created Tue May 21 09:41:18 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+hash/
+trees/
